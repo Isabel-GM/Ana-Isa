@@ -44,25 +44,6 @@ Analizamos cerca de **60.000 perfiles** con información personal, hábitos, ori
 
 ---
 
-## 🧠 Retos y aprendizajes
-
-- Cómo limpiar datos reales con valores nulos y categorías inconsistentes
-- La importancia de una buena visualización para contar una historia
-- Cómo extraer insights relevantes desde una perspectiva crítica y no solo descriptiva
-- Mejora de la colaboración en pair programming
-
----
-
-## 🚀 Posibles mejoras futuras / Next Steps
-
-- **Publicar el dashboard** en Tableau Public para hacerlo accesible de forma interactiva.
-- **Añadir un modelo predictivo** en Python o con herramientas no-code para estimar la probabilidad de match en base al perfil.
-- **Enriquecer el análisis** con otros datasets de apps como Tinder o Bumble para comparar comportamientos.
-- **Desarrollar una versión en inglés** y así ampliar el alcance del proyecto a audiencias internacionales.
-- **Explorar patrones temporales**: si tuviéramos datos de años distintos, analizar cambios en hábitos y tipos de usuarios.
-
----
-
 ## 🗂️ Estructura del análisis
 
 ### 🧠 Parte 1: ¿Quién está buscando el amor online?
@@ -81,6 +62,25 @@ Analizamos cerca de **60.000 perfiles** con información personal, hábitos, ori
 ### 🔄 Parte 4: ¿Cómo decidimos hacer swipe?
 - Análisis de comportamiento de swipe según género, orientación y tiempo de uso
 - 🧠 Insight: los hombres hacen más swipe right; quienes buscan algo serio invierten más tiempo en la app
+
+---
+
+## 🧠 Retos y aprendizajes
+
+- Cómo limpiar datos reales con valores nulos y categorías inconsistentes
+- La importancia de una buena visualización para contar una historia
+- Cómo extraer insights relevantes desde una perspectiva crítica y no solo descriptiva
+- Mejora de la colaboración en pair programming
+
+---
+
+## 🚀 Posibles mejoras futuras / Next Steps
+
+- **Publicar el dashboard** en Tableau Public para hacerlo accesible de forma interactiva.
+- **Añadir un modelo predictivo** en Python o con herramientas no-code para estimar la probabilidad de match en base al perfil.
+- **Enriquecer el análisis** con otros datasets de apps como Tinder o Bumble para comparar comportamientos.
+- **Desarrollar una versión en inglés** y así ampliar el alcance del proyecto a audiencias internacionales.
+- **Explorar patrones temporales**: si tuviéramos datos de años distintos, analizar cambios en hábitos y tipos de usuarios.
 
 ---
 
