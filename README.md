@@ -86,7 +86,8 @@ Analizamos cerca de **60.000 perfiles** con información personal, hábitos, ori
 
 ## 📸 Dashboards y visualizaciones
 
-🔗 Enlace a los dashboards de Tableau: *(falta añadir)*
+🔗 Enlace a los dashboards de Tableau: [Ver Dashboard en Tableau](https://public.tableau.com/app/profile/isabel.garcia5440/viz/Okcupid_01-2-4-2-4/D_Cierre?publish=yes)
+
 
 ---
 
