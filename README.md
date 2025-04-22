@@ -94,7 +94,7 @@ Analizamos cerca de **60.000 perfiles** con información personal, hábitos, ori
 
 Este proyecto ha sido desarrollado por:
 
-- **Ana Molinero**
+- **Ana Molinero Fuentes**
 - **Isabel García Martínez**
 
 Estudiantes del Bootcamp de análisis de datos de **Adalab** 💡
