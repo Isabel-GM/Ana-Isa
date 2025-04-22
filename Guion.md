@@ -30,14 +30,14 @@ __Visualizaciones:__
 - Boxplot: ```essay_word_count``` por género  ✅
 - Barras: frecuencia de hábitos (fumar, beber, drogas) ✅
 - Barras: hijos por género o búsqueda de hijos ✅
-<<<<<<< HEAD
+
 - Análisis cruzado estilo de vida Mapa de calor (heatmap) cruzando ```diet_grouped``` y ```religion_grouped``` 
 - Barras por smokes o drinks cruzado con ```likes_received``` ¿Los hábitos influyen en la actividad o popularidad? ✅
 =======
 - Análisis cruzado estilo de vida Mapa de calor (heatmap) cruzando ```diet_grouped``` y ```religion_grouped``` ✅
 - Barras por smokes o drinks cruzado con ```likes_received``` ✅
 ¿Los hábitos influyen en la actividad o popularidad?
->>>>>>> acbd97882867e8eaedd9f435a9d6da69b19f10f3
+
 
 📌 Insight: “Los hombres tienden a escribir menos en su perfil. Las mujeres completan más su perfil y mencionan más hábitos saludables.”
 
@@ -58,7 +58,7 @@ __Visualizaciones:__
 - Tiempo y uso Boxplot o barras de ```time_spent_daily``` por orientación, género o edad  ✅
 - Gráfico de dispersión: ```profile_completeness``` vs. ```likes_received``` ✅
 ¿Influye tener el perfil completo? ¿Quién pasa más tiempo en la app?
->>>>>>> acbd97882867e8eaedd9f435a9d6da69b19f10f3
+
 
 📌 Insight: “Los perfiles más completos tienden a recibir más likes. Las personas con educación universitaria también destacan.”
 
@@ -74,7 +74,7 @@ __Visualizaciones:__
 - Swiping behavior Tarta o barra de proporción por ```swipe_right_label``` ✅
 - Media de ```swipe_right_ratio``` por sexo/orientación ¿Quién es más selectivo? ¿Quién da más likes? ✅
 Comparación entre lo que buscan y lo que ofrecen (si cruzamos variables como status y orientation)
->>>>>>> acbd97882867e8eaedd9f435a9d6da69b19f10f3
+
 
 📌 Insight: “Los hombres hacen más swipe right que las mujeres. Quienes buscan relaciones serias tienden a pasar más tiempo en la app.”
 
